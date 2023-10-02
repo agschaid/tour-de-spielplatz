@@ -1,9 +1,21 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Spotlight"
+title : "Was soll das sein?"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Zunächst einmal geht es einfach darum, mit uns zu diskutieren.</p>
+  
+  Am Anfang stand die Idee, Eltern eine Möglichkeit der politischen Teilhabe zu bieten.
+  Das politsche Leben findet bei uns schließlich primär am Abend statt.
+  Damit ist es für Menschen mit Aufsichtspflichten schwer bis gar nicht möglich daran teilzunehmen.<br>
+  Ein Nachmittagstermin am Spielplatz soll hier ein niederschwelliges Angebot zum politischen Diskutieren und Plaudern bieten.</p>
+  
+  Aber das Angebot beschränkt sich auf keinen Fall nur auf Eltern.
+  Alle Biedermannsdorfer und Biedermansdorferinnen sind eingeladen zu kommen und mit uns über ihre Fragen und Anliegen zu sprechen.</p>
+
+  Im Regelfall gibt es keinen Agenda.
+  Wir Sprechen über die Themen die Sie bringen.
 button: 
-  label: "Learn More"
-  link: "#"
+  label: "Sind Themenvorschläge möglich?"
+  link: "#einbringen"
+
 image: "images/spotlight02.jpg"

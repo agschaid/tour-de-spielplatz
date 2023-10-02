@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "einbringen"
+title : "Wie kann ich mich einbringen?"
+content: |
+  Bla bla Bal- Hier kommt Text der wo noch angepasst wird . . . . 
+image: "images/spotlight06.jpg"

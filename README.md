@@ -18,9 +18,9 @@ Spotlight 1 -> Aktuell: Wann? Wo? Status? wie sieht es dieses mal aus? Absage od
 Spotlight 2 -> Warum? Was soll das?
 Spotlight 3 -> geplant. Termine die schon festehen
 Spotlight 4 -> Nur für Eltern?
-Spotlight 5 -> Beeinflussung der Kinder?
-Spotlight 6 -> Wie kann ich mich einbringen?
-Spotlight 7 -> Essen und trinken?
+Spotlight 5 -> Schlechtwetter
+Spotlight 6 -> Beeinflussung der Kinder?
+Spotlight 7 -> Wie kann ich mich einbringen?
 
 
 Items: Impressum, Kontakt

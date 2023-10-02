@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "kinder"
+title : "Kinder?"
+content: |
+  Es ist uns wichtig, dass es sich hierbei um ein Gesprächsangebot an die Eltern handelt.
+  <strong>Wir wollen keine politische Werbung am Spielplatz betreiben.</strong></br>
+  Darum werden wir davon absehen mit Grünem Branding aufzutreten und werden keine Grünen Goodies oder Unterlagen verteilen.</p>
+  Wenn ihr uns nicht persönlich kennt und nicht wisst wer wir sind, könnt ihr auch gern vor Ort die Kontaktperson des aktuellen Termins anrufen.
+image: "images/spotlight05.jpg"
+button: 
+  label: "Zum aktuellen Termin"
+  link: "#aktuell"

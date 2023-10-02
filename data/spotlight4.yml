@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "schlechtwetter"
+title : "Schlechtwetter"
+content: |
+  Je nach <a href="https://www.google.com/search?q=wetter+biedermannsdorf">zu erwartender Witterung</a> behalten wir uns vor Veranstaltungen <b>bis 11:00 des selben Tages</b> abzusagen oder zu verlegen.
+  Entsprechende Verlautbarungen findet immer beim aktuellen Termin.<br>
+  Im Dezember, Jänner und wahrscheinlich auch Februar planen wir aktuell gar keine Termine.
+button: 
+  label: "Zum aktuellen Termin"
+  link: "#aktuell"
+image: "images/spotlight04.jpg"
