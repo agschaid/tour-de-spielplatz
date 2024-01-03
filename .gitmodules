@@ -1,0 +1,6 @@
+
+[submodule "themes/hugo-story"]
+	path = themes/hugo-story
+	branch = master
+    url = https://github.com/caressofsteel/hugo-story.git
+

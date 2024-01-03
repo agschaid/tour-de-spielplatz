@@ -7,7 +7,21 @@ Using the Hugo Story Theme: https://themes.gohugo.io/themes/hugo-story/
 
 Install hugo. Needs to be the extended version.
 
-The theme is already checked in and does not need to be installed separately.
+## With git
+
+Usually you should get this repo with git (needed for pushing back changes that you have made)
+
+* Run `git clone git@github.com:agschaid/tour-de-spielplatz.git` to get this repo.
+* In the `tour-de-spielplatz` folder run `git submodule update --init --recursive` to download the hugo-story theme.
+
+## Without git
+
+If you don't know what git is (but still need to make changes to the homepage) get this repo the following way:
+
+* download this repo as a zip file (the green `Code` button above -> "Download ZIP") and unpack it in an convenient location.
+* download the the hugo-story theme in the same way from https://github.com/caressofsteel/hugo-story and copy the contents of the unziped folder to `tour-de-spielplatz/themes/hugo-story/`.
+
+Changes that you make now can **NOT** be pushed back to the central repo.
 
 ## Development
 
