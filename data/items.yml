@@ -1,22 +1,28 @@
-title : "-"
+title : ""
 content: |
 style: "style1 medium onscroll-fade-in"
 items:
 
-  # feature item loop
-  - name : "Impressum"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-chart-bar"
-    
-  # feature item loop
   - name : "Wer sind wir?"
     content : "Die Tour-de-Spielplatz ist ein Angebot der Grünen Gemeinderatsfraktion Biedermannsdorf."
     style : "solid style2 major fa-hashtag"
+      #
+  # feature item loop
+  - name : "Herausgeber"
+    content : "Die Grünen Biedermannsdorf"
+    style : "solid style2 major fa-chart-bar"
+
+  - name : "Für den Inhalt verantwortlich"
+    content : "Axel Gschaider; 2362 Biedermannsdorf"
+    style : "style2 major fa-gem"
+    id: kontakt
+    
+    
+  # feature item loop
     
   # feature item loop
   - name : "Kontakt"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "tour-de-spielplatz@posteo.at"
     style : "style2 major fa-envelope"
     id: kontakt
-    
     

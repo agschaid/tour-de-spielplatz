@@ -3,9 +3,9 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 id: "schlechtwetter"
 title : "Schlechtwetter"
 content: |
-  Je nach <a href="https://www.google.com/search?q=wetter+biedermannsdorf">zu erwartender Witterung</a> behalten wir uns vor Veranstaltungen <b>bis 11:00 des selben Tages</b> abzusagen oder zu verlegen.
-  Entsprechende Verlautbarungen findet immer beim aktuellen Termin.<br>
-  Im Dezember, Jänner und wahrscheinlich auch Februar planen wir aktuell gar keine Termine.
+  Je nach <a href="https://www.google.com/search?q=wetter+biedermannsdorf" target="_blank">zu erwartender Witterung</a> behalten wir uns vor, Veranstaltungen <b>bis 12:00 des selben Tages</b> abzusagen oder zu verlegen.
+  Entsprechende Verlautbarungen findet ihr immer oben beim aktuellen Termin.<br>
+  Im Dezember, Jänner und wahrscheinlich auch Februar planen wir aktuell gar keine Termine. Außer die Nachfrage ist groß. Dann aber mit Tee.
 button: 
   label: "Zum aktuellen Termin"
   link: "#aktuell"

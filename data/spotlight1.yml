@@ -4,11 +4,11 @@ id: "aktuell"
 title : "Aktueller Termin"
 content: |
   <ul>
-    <li>6. Oktober 2023</li>
+    <li>5. Jannuar 2024</li>
     <li>15:00 - 17:00</li>
-    <li>Rodelhügel/Perlasgasse</li>
+    <li><a href="https://www.openstreetmap.org/#map=19/48.08409/16.35554" target="_blank">Gartenspielplatz/Georg Humbhandl-Gasse</a></li>
+    <li>Wir bringen je eine Thermoskanne Tee und Kaffee (diesmal guten!) mit . . .</li>
   </ul>
-  Der Ansprechpartner für kurzfristige Fragen ist diesmal Axel (TODO: Telephonnumer).
 button: 
   label: "Was ist bei Schlechtwetter?"
   link: "#schlechtwetter"

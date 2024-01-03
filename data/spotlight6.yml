@@ -3,5 +3,11 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 id: "einbringen"
 title : "Wie kann ich mich einbringen?"
 content: |
-  Bla bla Bal- Hier kommt Text der wo noch angepasst wird . . . . 
+  Es gibt ein größeres Thema, das ihr bereden wollt?
+  Dann könnte es sinnvoll sein, uns vorab zu informieren, damit wir uns vorbereiten können.</p>
+
+  Ihr wollt etwas in größerer Runde bereden oder einen Schwerpunkt setzen?
+  Dann könnten wir den nächsten Termin vielleicht mit einem Thema versehen.</p>
+
+  In beiden Fällen könnt ihr uns ein Email schicken. Den Kontakt findet ihr unten.
 image: "images/spotlight06.jpg"
