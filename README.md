@@ -9,7 +9,7 @@ Install hugo. Needs to be the extended version.
 
 The theme is already checked in an does not need to be installed.
 
-## Develop
+## Development
 
 Run `hugo server` to see the site in your browser at http://localhost:1313 . All changes to the codebase (see "Data Layout") will be reflected there in realtime (as long as the server is running).
 
