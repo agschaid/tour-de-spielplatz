@@ -7,14 +7,16 @@ Using the Hugo Story Theme: https://themes.gohugo.io/themes/hugo-story/
 
 Install hugo. Needs to be the extended version.
 
+The theme is already checked in an does not need to be installed.
+
 ## Develop
 
-Run `hugo server` to see the site at localhost:1313. All changes to the codebase (see "Data Layout") will be reflected there in realtime.
+Run `hugo server` to see the site in your browser at http://localhost:1313 . All changes to the codebase (see "Data Layout") will be reflected there in realtime (as long as the server is running).
 
 ## Deployment
 
-* Run `hugo` to build the site.
-* Copy all contents of `public/` (only the contents. Not the folder itself) to the ftp remote (in my case that is calling `mirror -e -P 10 -R <absolute-lokal-path>/tour-de-spielplatz/public .` in an `lftp` session)
+* Run `hugo` to build the site und store all artifacts in `public/`.
+* Copy all contents of `public/` (only the contents. Not the folder itself) to the ftp remote (in my case that is calling `mirror -e -P 10 -R <absolute-lokal-path>/tour-de-spielplatz/public .` in an `lftp` session. Choose your own poison)
 
 # Data Layout
 
