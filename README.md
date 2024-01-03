@@ -3,24 +3,29 @@ Built with Hugo: https://gohugo.io/
 
 Using the Hugo Story Theme: https://themes.gohugo.io/themes/hugo-story/
 
-* Setup
+# Setup
 
 Install hugo. Needs to be the extended version.
 
-Run `hugo server` to see the site at localhost:1313
+## Develop
 
-Run hugo to build the site.
+Run `hugo server` to see the site at localhost:1313. All changes to the codebase (see "Data Layout") will be reflected there in realtime.
 
-* Roadmap
+## Deployment
 
-Banner -> was ist die Tour-de-Spielplatz?
-Spotlight 1 -> Aktuell: Wann? Wo? Status? wie sieht es dieses mal aus? Absage oder Was? -> Bild: "was aktuelles"
-Spotlight 2 -> Warum? Was soll das?
-Spotlight 3 -> geplant. Termine die schon festehen
-Spotlight 4 -> Nur für Eltern?
-Spotlight 5 -> Schlechtwetter
-Spotlight 6 -> Beeinflussung der Kinder?
-Spotlight 7 -> Wie kann ich mich einbringen?
+* Run `hugo` to build the site.
+* Copy all contents of `public/` (only the contents. Not the folder itself) to the ftp remote (in my case that is calling `mirror -e -P 10 -R <absolute-lokal-path>/tour-de-spielplatz/public .` in an `lftp` session)
 
+# Data Layout
 
-Items: Impressum, Kontakt
+All relevant files for day-to-day editing can be found in the `data/` folder.
+
+* banner.yml -> was ist die Tour-de-Spielplatz?
+* spotlight1.yml -> Aktueller Termin: Wann? Wo? Status? wie sieht es dieses mal aus? Absage oder Was?
+* spotlight2.yml -> Warum? Was soll das?
+* spotlight3.yml -> geplante Termine
+* spotlight4.yml -> Nur für Eltern? (nein. für alle)
+* spotlight5.yml -> Schlechtwetter (wann und wie sagen wir ab usw)
+* spotlight6.yml -> Beeinflussung der Kinder? (wir treten nicht mit grünem Branding auf)
+* spotlight7.yml -> Wie kann ich mich einbringen?
+* items.yml -> Impressum, Kontakt
