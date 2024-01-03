@@ -7,7 +7,7 @@ Using the Hugo Story Theme: https://themes.gohugo.io/themes/hugo-story/
 
 Install hugo. Needs to be the extended version.
 
-The theme is already checked in an does not need to be installed.
+The theme is already checked in and does not need to be installed separately.
 
 ## Development
 
@@ -22,6 +22,8 @@ Run `hugo server` to see the site in your browser at http://localhost:1313 . All
 
 All relevant files for day-to-day editing can be found in the `data/` folder.
 
+ONLY edit the html that can be found under the `content` key of the respective elements unless (you think) you know what you are doing.
+
 * banner.yml -> was ist die Tour-de-Spielplatz?
 * spotlight1.yml -> Aktueller Termin: Wann? Wo? Status? wie sieht es dieses mal aus? Absage oder Was?
 * spotlight2.yml -> Warum? Was soll das?
@@ -31,3 +33,5 @@ All relevant files for day-to-day editing can be found in the `data/` folder.
 * spotlight6.yml -> Beeinflussung der Kinder? (wir treten nicht mit grünem Branding auf)
 * spotlight7.yml -> Wie kann ich mich einbringen?
 * items.yml -> Impressum, Kontakt
+
+All relevant source images can be found under `static/images`.
