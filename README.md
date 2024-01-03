@@ -23,11 +23,11 @@ If you don't know what git is (but still need to make changes to the homepage) g
 
 Changes that you make now can **NOT** be pushed back to the central repo.
 
-## Development
+# Development
 
 Run `hugo server` to see the site in your browser at http://localhost:1313 . All changes to the codebase (see "Data Layout") will be reflected there in realtime (as long as the server is running).
 
-## Deployment
+# Deployment
 
 * Run `hugo` to build the site und store all artifacts in `public/`.
 * Copy all contents of `public/` (only the contents. Not the folder itself) to the ftp remote (in my case that is calling `mirror -e -P 10 -R <absolute-lokal-path>/tour-de-spielplatz/public .` in an `lftp` session. Choose your own poison)
