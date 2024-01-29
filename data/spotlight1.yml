@@ -4,10 +4,11 @@ id: "aktuell"
 title : "Aktueller Termin"
 content: |
   <ul>
-    <li>5. Jannuar 2024</li>
+    <li>2. Februar 2024</li>
     <li>15:00 - 17:00</li>
-    <li><a href="https://www.openstreetmap.org/#map=19/48.08409/16.35554" target="_blank">Gartenspielplatz/Georg Humbhandl-Gasse</a></li>
-    <li>Wir bringen je eine Thermoskanne Tee und Kaffee (diesmal guten!) mit . . .</li>
+    <li><a href="https://www.openstreetmap.org/#map=19/48.08207/16.34518" target="_blank">Jubiläumshalle/Hort</a> (sollte der Spielplatz noch bis 16:00 vom Hort belegt sein, treffen wir uns bei den Brunnen-Säulen)</li>
+    <li>Wir bringen je eine Thermoskanne Tee und Kaffee (diesmal guten!) mit . . . unter Umstände ist sogar eine mobile Kaffeemaschine am Start.</li>
+    <li>Kontaktperson für diesen Termin ist Axel: 0660 6185676</li>
   </ul>
 button: 
   label: "Was ist bei Schlechtwetter?"
