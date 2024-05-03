@@ -4,7 +4,7 @@ id: "aktuell"
 title : "Aktueller Termin"
 content: |
   <ul>
-    <li>3. Mai 2024</li>
+    <li><s>3. Mai 2024</s> wegen Regen auf <b>10. Mai 2024</b> verschoben</li>
     <li>15:00 - 17:00</li>
     <li><a href="https://www.openstreetmap.org/#map=18/48.08913/16.34686" target="_blank">Perlasgasse / Klosterstraße (Rodelhügel)</a></li>
     <li>Kontaktperson für diesen Termin ist Axel: 0660 6185676</li>

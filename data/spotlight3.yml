@@ -4,7 +4,7 @@ id: "weitere"
 title : "Weitere Termine"
 content: |
   <ul>
-    <li>3. Mai 2024 - <a href="https://www.openstreetmap.org/#map=18/48.08913/16.34686" target="_blank">Perlasgasse / Klosterstraße (Rodelhügel)</a></li>
+    <li><s>3. Mai 2024</s> wegen Regen auf <b>10. Mai 2024</b> verschoben - <a href="https://www.openstreetmap.org/#map=18/48.08913/16.34686" target="_blank">Perlasgasse / Klosterstraße (Rodelhügel)</a></li>
     <li>7. Juni 2024 - <a href="https://www.openstreetmap.org/#map=19/48.08566/16.34697" target="_blank">Perlasgasse 12 (Bibliothek/Seniorenheim)</a></li>
     <li>5. Juli 2024 - <a href="https://www.openstreetmap.org/#map=18/48.08066/16.35486" target="_blank">Weidengasse / Bachgasse (Spitzwiese)</a></li>
     <li>2. August 2024 - <a href="https://www.openstreetmap.org/#map=19/48.08409/16.35533" target="_blank">Georg Humbhandl-Gasse (Gartenspieplatz)</a></li>
