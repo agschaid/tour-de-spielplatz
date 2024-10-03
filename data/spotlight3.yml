@@ -4,13 +4,13 @@ id: "weitere"
 title : "Weitere Termine"
 content: |
   <ul>
-    <li>5. Juli 2024 - <a href="https://www.openstreetmap.org/#map=18/48.08066/16.35486" target="_blank">Weidengasse / Bachgasse (Spitzwiese)</a></li>
-    <li>2. August 2024 - <a href="https://www.openstreetmap.org/#map=19/48.08409/16.35533" target="_blank">Georg Humbhandl-Gasse (Gartenspieplatz)</a></li>
-    <li>6. September 2024 - <a href="https://www.openstreetmap.org/#map=19/48.08207/16.34518" target="_blank">Jubiläumshalle / Hort</a> (sollte der Spielplatz noch bis 16:00 vom Hort belegt sein, treffen wir uns bei den Brunnen-Säulen)</li>
     <li>4. Oktober 2024 - <a href="https://www.openstreetmap.org/#map=19/48.08597/16.34881" target="_blank" target="_blank">Klosterstraße / Ahornstraße</a></li>
     <li> 1. November 2024 - <a href="https://www.openstreetmap.org/#map=19/48.08110/16.34240" target="_blank">Leo-Eichinger Ring / Bachpromenade</a></li>
     <li>6. Dezember 2024 - <a href="https://www.openstreetmap.org/#map=18/48.08913/16.34686" target="_blank">Perlasgasse / Klosterstraße (Rodelhügel)</a></li>
     <li>3. Jänner 2025 - <a href="https://www.openstreetmap.org/#map=19/48.08566/16.34697" target="_blank">Perlasgasse 12 (Bibliothek/Seniorenheim)</a></li>
+    <li>7. Februar 2025 - <a href="https://www.openstreetmap.org/#map=18/48.08066/16.35486" target="_blank">Weidengasse / Bachgasse (Spitzwiese)</a></li>
+    <li>7. März 2025 - <a href="https://www.openstreetmap.org/#map=19/48.08409/16.35533" target="_blank">Georg Humbhandl-Gasse (Gartenspieplatz)</a></li>
+    <li>4. April 2025 - <a href="https://www.openstreetmap.org/#map=19/48.08207/16.34518" target="_blank">Jubiläumshalle / Hort</a> (sollte der Spielplatz noch bis 16:00 vom Hort belegt sein, treffen wir uns bei den Brunnen-Säulen)</li>
   <ul>
 image: "images/spotlight03.jpg"
 
