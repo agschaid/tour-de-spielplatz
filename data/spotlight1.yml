@@ -5,13 +5,12 @@ title : "Aktueller Termin"
 content: |
   <br>
   <ul>
-    <li>4. Juli 2025</li>
+    <li>1. August 2025</li>
     <li>15:00 - 17:00</li>
-    <li><a href="https://www.openstreetmap.org/#map=18/48.08913/16.34686" target="_blank">Perlasgasse / Klosterstraße (Rodelhügel)</a></li>
+    <li><a href="https://www.openstreetmap.org/#map=19/48.08566/16.34697" target="_blank">Perlasgasse 12 (Bibliothek/Seniorenheim)</a></li>
     <li>Kontaktperson für diesen Termin ist Axel: 0660 6185676</li>
-    <li>bisserl Spezial-Termin: es wird keine <b>ÖKlo</b>-Einweihungs-Party . . . <a href="https://gruenebiedermannsdorf.blogspot.com/2025/06/i-wea-narrisch.html">aber freuen werden wir uns schon ;)</a></li>
   </ul>
-button: 
+button:
   label: "Was ist bei Schlechtwetter?"
   link: "#schlechtwetter"
 image: "images/spotlight01.jpg"
