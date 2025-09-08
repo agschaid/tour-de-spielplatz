@@ -5,10 +5,11 @@ title : "Aktueller Termin"
 content: |
   <br>
   <ul>
-    <li>5. September 2025</li>
+    <li>3. Oktober 2025</li> 
     <li>15:00 - 17:00</li>
-    <li><a href="https://www.openstreetmap.org/#map=18/48.08066/16.35486" target="_blank">Weidengasse / Bachgasse (Spitzwiese)</a></li>
+    <li><a href="https://www.openstreetmap.org/#map=19/48.08409/16.35533" target="_blank">Georg Humbhandl-Gasse (Gartenspieplatz)</a></li>
     <li>Kontaktperson für diesen Termin ist Axel: 0660 6185676</li>
+    <li><b>Spezial-Termin: Kartoffeln ausgraben</b></li>
   </ul>
 button:
   label: "Was ist bei Schlechtwetter?"
